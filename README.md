@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David Pintye 
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning JS, Angular, Node.JS. 
+- 📫 How to reach me: +36308440030, davpintye@gmail.com
